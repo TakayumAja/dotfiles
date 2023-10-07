@@ -36,3 +36,6 @@ opt.ignorecase = true
 opt.swapfile = false
 
 opt.formatoptions:append { 'r' }
+
+-- Mouse Off
+opt.mouse = "" 
